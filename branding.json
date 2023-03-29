@@ -1,5 +1,6 @@
 {
     "backgroundColor": "#11ff00",
+    "avatarBackgrounds": ["#ff0000", "#00ffff"],
     "logoClickUrl": "https://github.com/avvessalom/myjitsi",
     "logoImageUrl": "https://rawcdn.githack.com/maxired/myjitsi/master/watermark.png"
 }

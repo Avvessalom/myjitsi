@@ -1,1 +1,1 @@
-config.brandingDataUrl = 'https://rawcdn.githack.com/avvessalom/myjitsi/master/branding.json'
+config.brandingDataUrl = 'https://raw.githubusercontent.com/Avvessalom/myjitsi/master/branding.json'
